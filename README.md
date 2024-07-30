@@ -1,3 +1,4 @@
+[![MasterHead](https://w.wallhaven.cc/full/5d/wallhaven-5dpy89.jpg)
 <h1 align="center">Hi 👋, I'm Lorenzo Scarcella</h1>
 <h3 align="center">A 42 student with a passion for programming</h3>
 <img align= "right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
