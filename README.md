@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lorenzo Scarcella</h1>
-<h3 align="center">A student with a passion for programming</h3>
+<h3 align="center">A 42 student with a passion for programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lscarcella&label=Profile%20views&color=0e75b6&style=flat" alt="lscarcella" /> </p>
 
@@ -22,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lscarcella&show_icons=true&locale=en&layout=compact" alt="lscarcella" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lscarcella&show_icons=true&locale=en" alt="lscarcella" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lscarcella&" alt="lscarcella" /></p>
